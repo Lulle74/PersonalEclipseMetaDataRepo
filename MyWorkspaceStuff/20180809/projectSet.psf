@@ -4,6 +4,8 @@
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/com.fasterxml.jackson"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/com.kitfox.salamander"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/com.secureon.lime"/>
+<project reference="1.0,https://github.com/Lulle74/Eclipse3-Workbench-Mock-Facade.git,master,bundles/eclipseworkbench.compability"/>
+<project reference="1.0,https://github.com/Lulle74/PersonalEclipseMetaDataRepo.git,master,MyWorkspaceStuff"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/net.miginfocom.layout"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.apache.kafka"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.apache.poi"/>
@@ -18,12 +20,18 @@
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.json"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.lwjgl"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.safehaus.uuid"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.aid.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.aid.imageviewer"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.aid.movieplayer"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.aid.theme"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.admintemplate"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aggregator"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aggregator.correctors"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aggregator.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.avix.aid.licensing"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.application.common"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.application.mediaplayer"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.avix.application.rap"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.application.rcp"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,products/se.solme.avix.application.rcp.product"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,releng/se.solme.avix.application.rcp.target"/>
@@ -84,6 +92,7 @@
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.disposable"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.documents"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.documents.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.draw2svg"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.e4.ui"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.e4.ui.bindings"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.e4.ui.lifecycle"/>
@@ -207,6 +216,7 @@
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties.compability"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties.databinding"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,_RAP/se.solme.avix.rap.iwi"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.relationsections.ui"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.reporting.templates"/>
 <project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.report.templates.ui"/>
@@ -344,6 +354,7 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.stopwatchtimestudy.ui" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.changemanagement.ui" type="4"/>
 <item elementID="=se.solme.avix.dfx" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.draw2svg" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.synchronization.ui" type="4"/>
 <item elementID="=se.solme.avix.paginatedtableviewer.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -566,7 +577,6 @@
 <item elementID="=org.safehaus.uuid" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=com.secureon.lime" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=org.apache.kafka" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=org.eclipse.emf.cdo.server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=org.lwjgl" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=net.miginfocom.layout" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=com.kitfox.salamander" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -582,6 +592,39 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre_x86_64" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre.defaultinstall" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1522053815333_17" label="E3 Workbench Mock Facade" name="E3 Workbench Mock Facade">
+<item elementID="=eclipseworkbench.compatibility" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1519054222318_10" label="FORK_Eclipse_DiffMerge" name="FORK_Eclipse_DiffMerge">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.connector.svn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.sirius" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.gmf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.connector.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.ui.sirius" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.structures" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.ui.workbench" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.connector.git" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.emf.diffmerge.ui.gmf" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1519122016115_12" label="FORK_Eclipse_Platform_Team" name="FORK_Eclipse_Platform_Team">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.compare" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.ui.resourceWorkingSetPage" id="1522314294803_19" label="MyWorkspaceStuff" name="MyWorkspaceStuff">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MyWorkspaceStuff" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1523956363380_21" label="RAP_stuff" name="RAP_stuff">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.rap.view" type="4"/>
+<item elementID="=se.solme.avix.application.rap" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.aid.theme" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.aid.movieplayer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.aid.licensing" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.aid.feature" type="4"/>
+<item elementID="=se.solme.avix.rap.iwi" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.rap.util" type="4"/>
+<item elementID="=se.solme.aid.imageviewer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSets>
 <workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1521448731482_15" label="TODO_MIGRATE_PLUGINS" name="TODO_MIGRATE_PLUGINS">
 <item elementID="=se.solme.avix.p2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
