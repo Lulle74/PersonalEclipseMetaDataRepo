@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/com.fasterxml.jackson"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/com.kitfox.salamander"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/com.secureon.lime"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/net.miginfocom.layout"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.apache.kafka"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.apache.poi"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.eclipse.nebula.cwt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.eclipse.nebula.widgets.cdatetime"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.eclipse.nebula.widgets.compositetable"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.eclipse.nebula.widgets.datechooser"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.eclipse.nebula.widgets.grid"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.eclipse.wb.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.jlibav"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.joda.time"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.json"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.lwjgl"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/org.safehaus.uuid"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.admintemplate"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aggregator"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aggregator.correctors"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aggregator.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.application.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.application.mediaplayer"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.application.rcp"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,products/se.solme.avix.application.rcp.product"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,releng/se.solme.avix.application.rcp.target"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.aspectanalysis"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.awtutils"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance.chart"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance.chart.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance.common.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance.diffexcelreport"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balance.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.balanceadvanced.reports"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.base"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.base.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.batik16.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.bordercomposite"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.categories"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.categories.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.cdo.utils"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.changemanagement"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.changemanagement.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart.reporting"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart.reporting.awt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart.reporting.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart.ui.awt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.chart.ui.svg"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.colorselector.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.common.data"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.common.data.edit"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.common.data.types"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.common.data.utils"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.common.data.utils.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.compare"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.compare.chart.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.compare.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.compare.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.comparemerge.e4compability.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,sites/se.solme.avix.comparemerge.e4compability.site"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.configuration"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.configuration.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.connectivity"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.connector.downstream"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.connector.downstream.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.contentfactory.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.cosimulation"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.cosimulation.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.custommenu.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.dataexchange.excel"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.dataexchange.excel.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.dataexchange.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.decorations"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.desktop.documentation.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.dfx"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.dfx.reports"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.disposable"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.documents"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.documents.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.e4.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.e4.ui.bindings"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.e4.ui.lifecycle"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.edit"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.edit.replacemerge.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.edit.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.editors.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.editorsnippets.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.emf.transaction"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.emf.transaction.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.excel.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.expressions"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.extensionprocessor"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.feedback"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.feedback.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.filtering.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.format"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.format.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.formtable"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.formtoolkit"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.generalexport"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.generalimport"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.help"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.i18n"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.i18n.dataexchange"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.i18n.dataexchange.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.i18n.rcp"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.i18n.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.analyser"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.eventbus"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.eventbus.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.services"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.storage"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.storage.autostore"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.storage.autostore.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.storage.recovery"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.storage.recovery.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.storageloader"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.io.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/jre.git,master,se.solme.avix.java.runtime"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/jre.git,master,se.solme.avix.jre"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/jre.git,master,se.solme.avix.jre.defaultinstall"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/jre.git,master,se.solme.avix.jre_x86_64"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/jre.git,master,se.solme.avix.jre_x86_64.defaultinstall"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.jsonrpc.client"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.jsonrpc.server"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.labels"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.labels.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.layoutbuilder"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.licensing"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.licensing.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.locationcode"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.locationcode.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.logback.config"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.markers"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.markers.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.markup"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.markup.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.match"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.measure"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.measure.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media.common.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.media.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media_ffmpeg"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media_ffmpeg.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media_libav"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.media_libav.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,products/se.solme.avix.mediaplayer.rcp.product"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.messageservice"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.messageservice.kafka"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.method"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.method.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration.release1"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration.release2"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration.release3"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration.release4"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration.release5"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.model.migration.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.mtm.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.mtm.common.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.notes"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.notes.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.operation"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.optionselector.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.p2"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.paginatedtableviewer.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.partrenderer"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.platform"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.platform.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.plmservices"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.plmservices.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,releng/se.solme.avix.pom.aggregator"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,releng/se.solme.avix.pom.parent"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.popover"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.preferences"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.preferences.winreg"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.product"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.product.dataexchange.excel"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.product.dataexchange.excel.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.product.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productconfiguration"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productconfiguration.dataexchange"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productconfiguration.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.production"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.production.categories"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.production.categories.id"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.production.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productionprogram"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productionprogram.dataexchange"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productionprogram.dataexchange.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productionprogram.simulation.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.productionprogram.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties.compability"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties.databinding"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.properties.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.relationsections.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.reporting.templates"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.report.templates.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.reporting"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.reporting.birt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.reporting.birt.reports"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.reporting.datacollection"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.reporting.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.risk"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.risk.reports"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.risk.reports.fmeaexcelreport"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.rules"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.rules.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.rules.common.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.rules.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.sam"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.sam.ergosam"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.sam.reporting.excel"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.security"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.security.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.security.ui.rcp"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.cdo"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.daemon"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.server.daemon.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.jetty.customizer"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.jetty.logging"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.services"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.services.rest"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.server.ws.api"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.singleinstancemanager"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.smed"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.smed.chart"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.smed.chart.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.smed.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.smed.common.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.smed.swt"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.stickers.report"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.stopwatchtimestudy"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.stopwatchtimestudy.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storage.cdo"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storage.cdo.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storage.file"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storage.xml"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storage.xml.recovery"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storage.xml.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.storagepreferences"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.structure"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.structure.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.styledtext.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.synchronization"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.synchronization.feature"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.synchronization.inspect"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.synchronization.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.tabbedpage.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.tempfile"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.timeanalysis.common"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.timeanalysis.common.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.timer.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.uas"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.uas.reporting.excel"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.uas.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.utils.viewers.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.vidar"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.vidar.reporting"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.views.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,features/se.solme.avix.windchill"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.winregistry"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.workinstructions.dataexchange.model"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.workspace"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.workspace.storage"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.avix.workspace.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.formattedspinner.ui"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/se.solme.net"/>
+<project reference="1.0,http://erik.lundstrom%40solme.se@172.16.5.9:7990/scm/avix/avix.git,master,bundles/za.co.quirk.layout.LatticeLayout"/>
+</provider>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1495536167334_6" label="AviX - Build stuff" name="AviX - Build stuff">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.pom.parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.pom.aggregator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.application.rcp.target" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1495535470701_3" label="AviX - Features" name="AviX - Features">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.platform.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.windchill" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.reporting.birt.reports" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.comparemerge.e4compability.site" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.daemon.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.admintemplate" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.comparemerge.e4compability.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.desktop.documentation.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.batik16.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.synchronization.feature" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1495535489559_4" label="AviX - Platform" name="AviX - Platform">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.application.rcp.target" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1495535451858_2" label="AviX - Plugins" name="AviX - Plugins">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productconfiguration" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.feedback.swt" type="4"/>
+<item elementID="=se.solme.avix.compare.chart.swt" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model.migration.release1" type="4"/>
+<item elementID="=se.solme.avix.media_libav.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.relationsections.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.cosimulation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balanceadvanced.reports" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.risk.reports.fmeaexcelreport" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.labels" type="4"/>
+<item elementID="=se.solme.avix.io.storage.autostore" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.io" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart.reporting.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model.migration.release2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.structure" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.production.categories" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.i18n" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.measure.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.emf.transaction.ui" type="4"/>
+<item elementID="=se.solme.avix.plmservices" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.optionselector.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.aspectanalysis" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.jetty.logging" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model.migration.release3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.connectivity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.io.storage" type="4"/>
+<item elementID="=se.solme.avix.e4.ui.lifecycle" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.common.data.types" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.changemanagement" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.io.storageloader" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.generalexport" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.formattedspinner.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model.migration.release4" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media_ffmpeg.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.security.ui.rcp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.stopwatchtimestudy.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.changemanagement.ui" type="4"/>
+<item elementID="=se.solme.avix.dfx" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.synchronization.ui" type="4"/>
+<item elementID="=se.solme.avix.paginatedtableviewer.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.tabbedpage.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.cosimulation.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.documents" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.help" type="4"/>
+<item elementID="=se.solme.avix.e4.ui.bindings" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.product.dataexchange.excel.ui.internal" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance.common.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.format.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.i18n.dataexchange" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.workspace.storage" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.i18n.rcp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.styledtext.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.utils.viewers.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.security" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.i18n.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productconfiguration.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.edit.replacemerge.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.uas.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.dataexchange.excel" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.storage.xml" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.daemon" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.custommenu.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.sam.reporting.excel" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productionprogram" type="4"/>
+<item elementID="=se.solme.avix.singleinstancemanager" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.labels.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart.reporting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.dfx.reports" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.io.analyser" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.reporting.ui" type="4"/>
+<item elementID="=se.solme.avix.connector.downstream.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.vidar" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.synchronization" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.reporting.birt" type="4"/>
+<item elementID="=se.solme.avix.storage.xml.recovery" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.aggregator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.smed" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.awtutils" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productconfiguration.dataexchange" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.sam.ergosam" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.notes.ui" type="4"/>
+<item elementID="=se.solme.avix.io.eventbus.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.rules.swt" type="4"/>
+<item elementID="=se.solme.avix.operation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.messageservice" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.rules.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.production" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.winregistry" type="4"/>
+<item elementID="=se.solme.avix.media_libav" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.application.rcp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.ws.api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.product" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.production.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.method" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.extensionprocessor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.tempfile" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.smed.chart" type="4"/>
+<item elementID="=se.solme.avix.application.mediaplayer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.views.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.product.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.sam" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productionprogram.simulation.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.synchronization.inspect" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.report.templates" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.workspace.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.i18n.dataexchange.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.markers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.smed.common.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.preferences.winreg" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.common.data.utils" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media_ffmpeg" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.common.data.edit" type="4"/>
+<item elementID="=se.solme.avix.server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.logback.config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.mtm.common.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.licensing" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.markers.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.reporting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.storage.cdo.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.base.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.security.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.smed.chart.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.emf.transaction" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.editors.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.timeanalysis.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.jetty.customizer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.services" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.formtoolkit" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart.ui.svg" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart.reporting.awt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.smed.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.vidar.reporting" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.categories" type="4"/>
+<item elementID="=se.solme.net" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.aggregator.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.match" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.licensing.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.properties.databinding" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productionprogram.dataexchange.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productionprogram.dataexchange" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.rules.common.swt" type="4"/>
+<item elementID="=se.solme.avix.io.services" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.disposable" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.compare.ui" type="4"/>
+<item elementID="=se.solme.avix.balance.diffexcelreport" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.preferences" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.risk" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.structure.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.production.categories.id" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.categories.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.storage.file" type="4"/>
+<item elementID="=se.solme.avix.cdo.utils" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.decorations" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.uas" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.risk.reports" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.storagepreferences" type="4"/>
+<item elementID="=se.solme.avix.jsonrpc.server.server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.base" type="4"/>
+<item elementID="=se.solme.avix.io.storage.recovery.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.mtm.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.dataexchange.excel.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.notes" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.compare.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.media.common.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.popover" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.formtable" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.chart.ui.awt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.platform" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.rules" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.properties.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.documents.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.configuration.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.reporting.datacollection" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.stopwatchtimestudy" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.format" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.generalimport" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.commandmenu.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.configuration" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.filtering.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.colorselector.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.properties.compability" type="4"/>
+<item elementID="=se.solme.avix.bordercomposite" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.properties.util" type="4"/>
+<item elementID="=se.solme.avix.partrenderer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.io.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.application.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.editorsnippets.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.common.data.utils.swt" type="4"/>
+<item elementID="=se.solme.avix.expressions" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.server.cdo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.io.storage.autostore.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.timeanalysis.common.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance.chart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.measure" type="4"/>
+<item elementID="=se.solme.avix.connector.downstream" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.io.storage.recovery" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.compare" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.io.eventbus" type="4"/>
+<item elementID="=se.solme.avix.messageservice.kafka" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.markup" type="4"/>
+<item elementID="=se.solme.avix.layoutbuilder" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.model.migration.release5" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.edit.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.storage.xml.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.locationcode.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.product.dataexchange.excel.internal" type="4"/>
+<item elementID="=se.solme.avix.p2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.smed.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.feedback" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.method.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model.migration.ui" type="4"/>
+<item elementID="=se.solme.avix.markup.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.e4.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.workinstructions.dataexchange.model" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.aggregator.correctors" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.common.data" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.workspace" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jsonrpc.client" type="4"/>
+<item elementID="=se.solme.avix.plmservices.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.timer.ui" type="4"/>
+<item elementID="=se.solme.avix.stickers.report" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.edit" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.properties" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.storage.cdo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.dataexchange.ui" type="4"/>
+<item elementID="=se.solme.avix.report.templates.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.server.services.rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.productionprogram.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.excel.common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.locationcode" type="4"/>
+<item elementID="=se.solme.avix.contentfactory.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.balance.chart.swt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.uas.reporting.excel" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.model.migration" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1495536189928_7" label="AviX - Products" name="AviX - Products">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.mediaplayer.rcp.product" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.application.rcp.product" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1495535434063_1" label="AviX - Thirdparty" name="AviX - Thirdparty">
+<item elementID="=org.eclipse.nebula.widgets.datechooser" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.nebula.cwt" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.nebula.widgets.grid" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.wb.swt" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=com.fasterxml.jackson" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.jlibav" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.poi" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.json" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.safehaus.uuid" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=com.secureon.lime" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.kafka" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.emf.cdo.server" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.lwjgl" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=net.miginfocom.layout" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=com.kitfox.salamander" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=za.co.quirk.layout.LatticeLayout" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.nebula.widgets.cdatetime" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.nebula.widgets.compositetable" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.joda.time" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1513085599428_8" label="AviX-JRE" name="AviX-JRE">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.java.runtime" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre_x86_64.defaultinstall" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jre" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre_x86_64" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre.defaultinstall" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.jre" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1521448731482_15" label="TODO_MIGRATE_PLUGINS" name="TODO_MIGRATE_PLUGINS">
+<item elementID="=se.solme.avix.p2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.connector.downstream.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.compare.chart.swt" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/se.solme.avix.commandmenu.ui" type="4"/>
+<item elementID="=se.solme.avix.balance.swt" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.markup.ui" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=se.solme.avix.balance.diffexcelreport" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
+</psf>
